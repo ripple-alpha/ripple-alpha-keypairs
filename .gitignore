@@ -67,3 +67,4 @@ eslintrc
 distrib/
 
 package-lock.json
+.nyc_output/
