@@ -1,6 +1,6 @@
 {
   "name": "ripple-alpha-keypairs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cryptographic key pairs for the XLA Ledger",
   "files": [
     "dist/*"
