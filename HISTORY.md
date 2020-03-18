@@ -1,5 +1,24 @@
 # ripple-alpha-keypairs Release History
 
+## 1.0.3
+
+* Marge from latest ripple-keypairs.
+* Refactor and use TypeScript
+* Use Travis CI (.travis.yml)
+* Use "dist/*" for distribution files
+* Add yarn.lock
+* Export members and add default export
+* Internal
+  * Use published ripple-address-codec (#58)
+  * Replace TSLint with ESLint + Prettier (#71)
+  * Add type (#74)
+  * Remove unused code (#81)
+  * Add tests (#82)
+  * Improve comments (#90)
+  * Remove Babel (#33)
+* Update dependencies
+  * @types/node, eslint, bn.js, typescript, @typescript-eslint/eslint-plugin, @typescript-eslint/parser, mocha, istanbul, hash.js
+
 ## 1.0.0
 
 * Convert to ripple-alpha-keypairs
